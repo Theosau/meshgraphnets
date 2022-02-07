@@ -1,7 +1,7 @@
 matplotlib==3.4.3
-torch_geometric==2.0.1
-torch_cluster==1.5.9
-torch==1.9.0
+torchvision
+torch-geometric
+torch-cluster
 numpy==1.21.2
 absl_py==0.13.0
 tfrecord==1.14.1
